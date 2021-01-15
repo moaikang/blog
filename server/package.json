@@ -10,6 +10,7 @@
   "author": "moaikang",
   "license": "ISC",
   "devDependencies": {
+    "@types/cors": "^2.8.9",
     "@types/express": "^4.17.11",
     "@types/mongoose": "^5.10.3",
     "@typescript-eslint/eslint-plugin": "^4.13.0",
